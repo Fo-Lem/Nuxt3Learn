@@ -6,7 +6,7 @@
   <header class="header">
     <nav class="menu">
       <NuxtLink class="menu__logo" to="/">
-        Nuxt3Learn
+        CarPrice
       </NuxtLink>
       <ul class="menu__list">
         <li>
